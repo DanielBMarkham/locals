@@ -1,2 +1,2 @@
-# ProceduralPerson
-Quick and fun piece of code to generate procedural people for test purposes
+# Locals
+The spot to find various code snippets that were used on my locals.com channel, danielbmarkham.locals.com
