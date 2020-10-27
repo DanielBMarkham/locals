@@ -98,7 +98,7 @@ let main argv =
 
     printfn "\n"
     printfn "ORIGINAL TAPE\n"
-    let m3=votingTape //[|"My jolly roger"|]
+    let m3=votingTape 
     printfn "\n %A" m3
 
     printfn "\n"
